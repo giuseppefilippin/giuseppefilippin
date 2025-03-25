@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppefilippin&show_icons=true&theme=radical&locale=en&layout=compact" alt="giuseppefilippin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuseppefilippin&show_icons=true&theme=radical&locale=en" alt="giuseppefilippin" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=giuseppefilippin&show_icons=true&theme=radical&locale=en" alt="giuseppefilippin" /></p>
 
 - 👨‍💻 All of my projects are available at [https://giuseppefilippin.github.io/Portfolio/](https://giuseppefilippin.github.io/Portfolio/)
 - <h3 align="left">Connect with me:</h3>
